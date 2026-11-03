@@ -685,6 +685,13 @@ main {
   }
 }
 
+// Tra lg e xxl il pannello del dettaglio è troppo stretto per CHILOMETRAGGIO su due colonne
+@include media-breakpoint-between(lg, xxl) {
+  .spec-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 // ---------------------------------------------------------------------------
 // Catalogo
 // ---------------------------------------------------------------------------
