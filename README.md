@@ -196,7 +196,7 @@ Templates: `BE/.env.example` and `FE/.env.example`. The `.env` files are git-ign
 
 ## Author
 
-Claudio Giasi: [GitHub](https://github.com/TheRedKardinal) · [LinkedIn](https://www.linkedin.com/in/claudio-giasi-8836b5243/)
+Claudio Giasi: [GitHub](https://github.com/TheRedKardinal) · [LinkedIn](https://www.linkedin.com/in/claudio-giasi/)
 
 ---
 

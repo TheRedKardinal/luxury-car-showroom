@@ -196,7 +196,7 @@ Modelli: `BE/.env.example` e `FE/.env.example`. I file `.env` sono esclusi da gi
 
 ## Autore
 
-Claudio Giasi: [GitHub](https://github.com/TheRedKardinal) · [LinkedIn](https://www.linkedin.com/in/claudio-giasi-8836b5243/)
+Claudio Giasi: [GitHub](https://github.com/TheRedKardinal) · [LinkedIn](https://www.linkedin.com/in/claudio-giasi/)
 
 ---
 
